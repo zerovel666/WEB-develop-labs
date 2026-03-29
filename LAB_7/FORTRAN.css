@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    color: rgb(0, 51, 102);
+}
+
+a:link {
+    color: #0000FF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:hover {
+    color: #008000;
+}
+
+a:active {
+    color: #FFFFFF;
+    background-color: #808080;
+}
+
+table,
+ul,
+ol {
+    font-size: 90%;
+}
+
+pre {
+    font-family: Arial, sans-serif;
+}
